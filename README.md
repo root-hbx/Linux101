@@ -15,4 +15,4 @@ What is shown here are concepts not fully explained in this tutorial.
 |      Shell脚本的书写       |           [笔者的Shell脚本编程笔记](https://github.com/root-hbx/Shell_Prog_Tutorial)           |
 
 ### Bonus
-You can gain an insight into the marvellous kingdom of Linux on [《Linux101》](https://101.lug.ustc.edu.cn)
+You can gain an insight into the marvellous kingdom of Linux on [《Linux101-USTC》](https://101.lug.ustc.edu.cn)
